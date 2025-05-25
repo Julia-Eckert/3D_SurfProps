@@ -137,7 +137,7 @@ Properties:
 ```MATLAB
 Slicing_Intensity.m
 ```
-... This code determines the mean and max intensity near the surface point. 
+... This script determines the mean and max intensity near the surface point. 
 
 **--Input:**
 - **Marker_X.tif**          ... non pre-processed z-stack of the fluorescent marker
