@@ -211,7 +211,7 @@ Plots.m
 
 ## 6 Examples
 
-The *Examples* folder contains two analyzed multicellular systems (see **2 Description**). Each of the folders contains the MATLAB output files and a folder named  *Single_image*, which includes an example of a single plane of the z-stack of each input file to show what the black-and-white masks and the channel for the orientation analysis look like. The full z-stack can be found on Zenodo.
+The *Examples* folder contains two analyzed multicellular systems (see **2 Description**). Each of the folders contains the MATLAB output files and a folder named  *Single_image*, which includes an example of a single plane of the z-stack of each input file to show what the black-and-white masks and the channel for the orientation analysis look like. The full z-stack can be found in the *GitHub_repository* folder on [Zenodo](https://doi.org/10.5281/zenodo.15509350).
 
 ### 6.1 Multicellular aggregate
 
