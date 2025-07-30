@@ -98,7 +98,7 @@ for k = 1:size(image_mask,3)
 
                 image_mask_k = double(image_mask(:,:,k));
                 MM = image_mask_k*0;
-                MM(round(mpx(:)),round(mpy(:))) = 1;
+                MM(round(mpy(:)),round(mpx(:))) = 1;
                 MM(image_mask_k==0) = 0;
                 [xx,yy] = find(MM);
                 xyz_boundary_points_main = [xyz_boundary_points_main; yy*xyz(2), ...
@@ -121,7 +121,7 @@ for k = 1:size(image_mask,3)
 
             image_mask_k = double(image_mask(:,:,k));
             MM = image_mask_k*0;
-            MM(round(mpx(:)),round(mpy(:))) = 1;
+            MM(round(mpy(:)),round(mpx(:))) = 1;
             MM(image_mask_k==0) = 0;
             [xx,yy] = find(MM);
             xyz_boundary_points_main = [xyz_boundary_points_main; yy*xyz(2), ...
@@ -134,7 +134,7 @@ end
 
 
 % get xyz surface points with equal xyz distance, in um
-k_range = [round(point_select)/2:round(point_select):size(image_mask,3), additional_planes']; 
+k_range = [round(point_select/2):round(point_select):size(image_mask,3), additional_planes']; 
 for k = k_range
 
     im_plane = image_mask(:,:,k);
