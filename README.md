@@ -2,7 +2,7 @@
 
 
 ## 1 Cite as
-Eckert et al. (2025) Capturing Nematic Order on Tissue Surfaces of Arbitrary Geometry. bioRxiv. [https://doi.org/10.1038/s41567-023-02179-0](https://www.biorxiv.org/content/10.1101/2025.01.28.635015v1)
+Eckert, J., Andrews, T.G.R., Pollard, J. et al. Capturing nematic order on tissue surfaces of arbitrary geometry. Nat Commun 16, 7596 (2025). [https://doi.org/10.1038/s41467-025-62694-x](https://doi.org/10.1038/s41467-025-62694-x)
 
 Author: Julia Eckert (j.eckert@imb.uq.edu.au)
 
