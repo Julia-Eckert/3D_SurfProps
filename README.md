@@ -1,5 +1,6 @@
 # 3D_SurfProps: Image Analysis Tools for Quantifying Nematic Orientational Order and Fluorescence Signals on Surfaces of 3D Tissues of Arbitrary Geometry
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Julia-Eckert/3D_SurfProps)
 
 ## 1 Cite as
 Eckert, J., Andrews, T.G.R., Pollard, J. et al. Capturing nematic order on tissue surfaces of arbitrary geometry. Nat Commun 16, 7596 (2025). [https://doi.org/10.1038/s41467-025-62694-x](https://doi.org/10.1038/s41467-025-62694-x)
